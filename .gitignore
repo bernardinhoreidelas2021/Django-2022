@@ -1,4 +1,7 @@
 ven 
 main.py 
 aula1 
-aula_1
+aula_1 
+env 
+.mypy_cache 
+.venv
